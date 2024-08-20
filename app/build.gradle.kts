@@ -39,6 +39,6 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation ("com.google.android.gms:play-services-maps:18.0.0")
     implementation ("com.android.volley:volley:1.2.1")
-
-
+    implementation ("gov.nist.math:jama:1.0.3")
+    implementation ("org.ejml:ejml-all:0.41")
 }
